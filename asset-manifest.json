@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.bc24561d.css",
+    "main.js": "/portfolio/static/js/main.93980d62.js",
+    "static/js/787.954561a0.chunk.js": "/portfolio/static/js/787.954561a0.chunk.js",
+    "static/media/appleLogo.png": "/portfolio/static/media/appleLogo.a17a3e64ebf114378f6d.png",
+    "static/media/web.png": "/portfolio/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/freelancer.png": "/portfolio/static/media/freelancer.84f9a6fddfcbb40a5d02.png",
+    "static/media/carrent.png": "/portfolio/static/media/carrent.489368bd0ad05e78718a.png",
+    "static/media/backend.png": "/portfolio/static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/mobile.png": "/portfolio/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/creator.png": "/portfolio/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/starbucks.png": "/portfolio/static/media/starbucks.c086db5b166ea2f14de1.png",
+    "static/media/github.png": "/portfolio/static/media/github.ed1c06d925fff0b57e32.png",
+    "static/media/jobit.png": "/portfolio/static/media/jobit.1ec39c5ebd26d24c8745.png",
+    "static/media/gear.svg": "/portfolio/static/media/gear.bf0994b5a33fdd4dca211304499c5dfc.svg",
+    "static/media/close.svg": "/portfolio/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
+    "static/media/menu.svg": "/portfolio/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/threejs.svg": "/portfolio/static/media/threejs.a02bc572667de670fbfb2173c0331d05.svg",
+    "main.bc24561d.css.map": "/portfolio/static/css/main.bc24561d.css.map",
+    "main.93980d62.js.map": "/portfolio/static/js/main.93980d62.js.map",
+    "787.954561a0.chunk.js.map": "/portfolio/static/js/787.954561a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc24561d.css",
+    "static/js/main.93980d62.js"
+  ]
+}
